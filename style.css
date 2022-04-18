@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big-title {
+    font-size: 3rem;
+}
+.title-bg {
+    display: inline-block;
+    border-radius: 30px;
+    background-color: blue;
+    padding: 1.5rem 4rem;
+}
